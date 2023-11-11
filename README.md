@@ -67,12 +67,19 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "token" contract from the dropdown menu, and then click on the "Deploy" button.
 
  Once the contract is deployed, copy the account address and paste it to the mint function _address, burn function _address, and the balances address.
+ 
     To mint a certain value, input the amount desired in the _value in the mint function and click transact.
+    
     To burn a certain value, input the amount desired in the _value in the burn function and click transact.
+    
     To check the balance click transact in the balances function.
+    
     To check the totalSupply click the totalSupply.
+    
     To check the token1 click the token1.
+    
     To check the tokenAbbrv, click the tokenAbbrv.
+    
 
 
 ## Authors
